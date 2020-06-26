@@ -16,6 +16,8 @@ It fits on the 40 pin expansion connector on the Tracker SoM Evaluation Board an
 
 The CAN connection is necessary because CAN is not exposed on the 40-pin header. Short wires connect to the screw terminals on the Tracker SoM evaluation board so the CAN will be available on the M8 connector.
 
+**Note:** The Tracker One supports up to 30V on the M8 connector. This adapter board does not have the same power supply as the Tracker One and Tracker Carrier Board. **This adapter board only supports up to 12V using the B8B-PH as a power input!** 
+
 ## About the M8 and B8B-PH Connector
 
 ![Diagram of inside cable](images/annotated.png)
