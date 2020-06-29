@@ -1,6 +1,6 @@
 # M8-Eval-Adapter
 
-**Hardware design to facility prototyping Tracker One designs on the Tracker SoM Evaluation Board**
+**Hardware design to facilitate prototyping Tracker One designs on the Tracker SoM Evaluation Board**
 
 ![Main Image](images/main.jpg)
 
