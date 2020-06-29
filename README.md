@@ -71,6 +71,16 @@ The Eagle CAD files (.sch and .brd) are in the [Github repository](https://githu
 
 ![Assembly](images/assembly.png)
 
+## Enabling Firmware Features
+
+To enable these features in the Tracker Edge firmware, edit tracker_config.h and make sure these are defined. They default to not being defined on the Tracker SoM Evaluation board.
+
+```
+#define TRACKER_THERMISTOR                    (A0)
+#define TRACKER_USER_BUTTON                   (A1)
+#define TRACKER_GNSS_LOCK_LED                 (A2)
+```
+
 
 
 
